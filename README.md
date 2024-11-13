@@ -1,4 +1,4 @@
-# 👒 K-M-Shehan
+# K-M-Shehan
 
 **`Computer Science Major`**
 
