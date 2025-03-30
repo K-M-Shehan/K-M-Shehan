@@ -29,6 +29,11 @@ I'm just a little guy learning new things and trying to make some interesting so
 
 ## 📢 Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data Structures &amp; Algorithms](https://medium.com/@supremestrawhat/data-structures-algorithms-f12ae36423e7?source=rss-498b7a28772b------2)
+- [Journey Into the Depths of C](https://medium.com/@supremestrawhat/journey-into-the-depths-of-c-c571c1c1232b?source=rss-498b7a28772b------2)
+- [The Power of Functions in C](https://medium.com/@supremestrawhat/the-power-of-functions-in-c-a722ea62ca04?source=rss-498b7a28772b------2)
+- [The Basics of C Control Flow](https://medium.com/@supremestrawhat/control-structures-in-c-a7a972bd327f?source=rss-498b7a28772b------2)
+- [The ABCs of C Programming](https://medium.com/@supremestrawhat/the-abcs-of-c-programming-63789effca44?source=rss-498b7a28772b------2)
 <!-- BLOG-POST-LIST:END -->
 
                               
