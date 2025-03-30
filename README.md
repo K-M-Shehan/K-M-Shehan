@@ -27,12 +27,9 @@ I'm just a little guy learning new things and trying to make some interesting so
 
 ---
 
-## 📢 Latest Medium Posts
-<table>
-  <tbody>
-    <!-- BLOG_SECTION -->
-  </tbody>
-</table>
+## 📝 Latest Medium Posts  
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
                               
 <!--
 **K-M-Shehan/K-M-Shehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
