@@ -14,7 +14,7 @@ jobs:
       - name: Fetch Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@yourusername"
+          feed_list: "https://medium.com/feed/@supremestrawhat"
           max_post_count: 3
           template: '<tr><td><a href="$url"><img src="$thumbnail" width="200px"></a></td><td><a href="$url">$title</a><br>$date</td></tr>'
           commit_message: "Updated README with latest Medium posts"
