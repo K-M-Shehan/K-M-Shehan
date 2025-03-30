@@ -28,8 +28,13 @@ I'm just a little guy learning new things and trying to make some interesting so
 ---
 
 ## 📝 Latest Medium Posts  
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->| Thumbnail | Post |
+|---|---|
+| <a href="https://medium.com/@supremestrawhat/data-structures-algorithms-f12ae36423e7?source=rss-498b7a28772b------2"><img src="$thumbnail" width="200px"></a> | **[Data Structures &amp; Algorithms](https://medium.com/@supremestrawhat/data-structures-algorithms-f12ae36423e7?source=rss-498b7a28772b------2)** <br> Thu Feb 13 2025 5:58 AM || Thumbnail | Post |
+|---|---|
+| <a href="https://medium.com/@supremestrawhat/journey-into-the-depths-of-c-c571c1c1232b?source=rss-498b7a28772b------2"><img src="$thumbnail" width="200px"></a> | **[Journey Into the Depths of C](https://medium.com/@supremestrawhat/journey-into-the-depths-of-c-c571c1c1232b?source=rss-498b7a28772b------2)** <br> Wed Jan 29 2025 11:12 PM || Thumbnail | Post |
+|---|---|
+| <a href="https://medium.com/@supremestrawhat/the-power-of-functions-in-c-a722ea62ca04?source=rss-498b7a28772b------2"><img src="$thumbnail" width="200px"></a> | **[The Power of Functions in C](https://medium.com/@supremestrawhat/the-power-of-functions-in-c-a722ea62ca04?source=rss-498b7a28772b------2)** <br> Wed Jan 29 2025 2:08 PM |<!-- BLOG-POST-LIST:END -->
                               
 <!--
 **K-M-Shehan/K-M-Shehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
