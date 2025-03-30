@@ -16,9 +16,12 @@ jobs:
         with:
           feed_list: "https://medium.com/feed/@supremestrawhat"
           max_post_count: 3
-          template: '<tr><td><a href="$url"><img src="$thumbnail" width="200px"></a></td><td><a href="$url">$title</a><br>$date</td></tr>'
+          template: |
+            | Thumbnail | Post |
+            |---|---|
+            | <a href="$url"><img src="$thumbnail" width="200px"></a> | **[$title]($url)** <br> $date |
+
           commit_message: "Updated README with latest Medium posts"
-          readme_section: "BLOG_SECTION"
 
       - name: Push changes
         run: |
