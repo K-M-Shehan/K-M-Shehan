@@ -22,7 +22,13 @@ I'm just a little guy learning new things and trying to make some interesting so
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" /> 
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dreamweaver/dreamweaver-plain.svg" /> 
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
-          
+
+---
+
+## 📢 Latest Medium Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
                               
 <!--
 **K-M-Shehan/K-M-Shehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
