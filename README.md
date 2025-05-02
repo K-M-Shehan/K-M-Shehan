@@ -27,8 +27,7 @@ I'm just a little guy learning new things and trying to make some interesting so
 <br>
 <br>
 
-🔗 **Find me elsewhere:**  
-🌐 [Portfolio](https://supremestrawhat.pages.dev) | 📜 [Blog](https://medium.com/@supremestrawhat) | 𝕏 [Twitter](https://x.com/supremestrawhat) | 💼 [LinkedIn](https://www.linkedin.com/in/miwesh-shehan/) | 🌍 [Neocities](https://supremestrawhat.neocities.org/)
+🔗 **Find me elsewhere:**  🌐 [Portfolio](https://supremestrawhat.pages.dev) | 📜 [Blog](https://medium.com/@supremestrawhat) | 𝕏 [Twitter](https://x.com/supremestrawhat) | 💼 [LinkedIn](https://www.linkedin.com/in/miwesh-shehan/) | 🌍 [Neocities](https://supremestrawhat.neocities.org/)
 
                               
 <!--
