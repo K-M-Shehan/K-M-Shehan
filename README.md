@@ -27,18 +27,8 @@ I'm just a little guy learning new things and trying to make some interesting so
 <br>
 <br>
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=K-M-Shehan&show_icons=true&theme=blueberry)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-M-Shehan&layout=compact&theme=blueberry)](https://github.com/K-M-Shehan/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=K-M-Shehan&theme=blueberry&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
 🔗 **Find me elsewhere:**  
-🌐 [Portfolio](supremestrawhat.pages.dev) | 📜 [Blog](https://medium.com/@supremestrawhat) | 𝕏 [Twitter](https://x.com/supremestrawhat) | 💼 [LinkedIn](https://www.linkedin.com/in/miwesh-shehan/) | 🌍 [Neocities](https://supremestrawhat.neocities.org/)
+🌐 [Portfolio](https://supremestrawhat.pages.dev) | 📜 [Blog](https://medium.com/@supremestrawhat) | 𝕏 [Twitter](https://x.com/supremestrawhat) | 💼 [LinkedIn](https://www.linkedin.com/in/miwesh-shehan/) | 🌍 [Neocities](https://supremestrawhat.neocities.org/)
 
                               
 <!--
