@@ -27,8 +27,21 @@ I'm just a little guy learning new things and trying to make some interesting so
 <br>
 <br>
 
-🔗 **Find me elsewhere:**  🌐 [Portfolio](https://supremestrawhat.pages.dev) | 📜 [Blog](https://medium.com/@supremestrawhat) | 𝕏 [Twitter](https://x.com/supremestrawhat) | 💼 [LinkedIn](https://www.linkedin.com/in/miwesh-shehan/) | 🌍 [Neocities](https://supremestrawhat.neocities.org/)
+<div align="center">
 
+🔗 **Find me elsewhere:**  
+🌐 [Portfolio](https://supremestrawhat.pages.dev) | 📜 [Blog](https://medium.com/@supremestrawhat) | 𝕏 [Twitter](https://x.com/supremestrawhat) | 💼 [LinkedIn](https://www.linkedin.com/in/miwesh-shehan/) | 🌍 [Neocities](https://supremestrawhat.neocities.org/)
+
+</div>
+<br></br>
+<!--[![Donate](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/supremestrawhat) - it keeps the code flowing.-->
+
+<div align="center">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/supremestrawhat)  
+<i>it keeps the code flowing</i>
+
+</div>
                               
 <!--
 **K-M-Shehan/K-M-Shehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
